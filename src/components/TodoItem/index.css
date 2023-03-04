@@ -1,0 +1,26 @@
+.todo-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.todoData {
+  color: #000000;
+  font-size: 13px;
+  font-family: 'Roboto';
+}
+.button {
+  font-size: 16px;
+  font-weight: 400;
+  font-family: 'Roboto';
+  color: #ff0b37;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin: 8px;
+  background-color: transparent;
+  border-width: 2px;
+  border-color: #ff0b37;
+  border-radius: 4px;
+}

@@ -1,0 +1,25 @@
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #ffc2a0;
+  padding: 20px;
+}
+
+.cards-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  background-color: #ffffff;
+  padding: 10px;
+}
+
+.main-heading {
+  color: #ff8542;
+  font-size: 28px;
+  font-family: 'Roboto';
+}
